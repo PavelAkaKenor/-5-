@@ -1,0 +1,37 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+ConsoleApplication1.cpp(14): warning C4101: tt: неиспользованная локальная переменная
+  ConsoleApplication1.cpp(103): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Calc<int>(MyVektor<int>,MyVektor<int>,MyVektor<int>)"
+ConsoleApplication1.cpp(13): warning C4101: sizeb: неиспользованная локальная переменная
+ConsoleApplication1.cpp(13): warning C4101: sizea: неиспользованная локальная переменная
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\complex(100): warning C4244: return: преобразование "std::numeric_limits<double>::_Ty" в "int", возможна потеря данных
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\complex(99): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\complex(657): note: выполняется компиляция ссылки на экземпляр шаблон функции "int std::_Ctraits<_Ty>::_Nanv(void)"
+          with
+          [
+              _Ty=int
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\complex(655): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::_Ctraits<_Ty>"
+          with
+          [
+              _Ty=int
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\complex(1209): note: выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Complex_base<_Ty,std::_Complex_value<_Ty>>::_Div<int>(const std::complex<_Ty> &)"
+          with
+          [
+              _Ty=int
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\complex(1209): note: выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Complex_base<_Ty,std::_Complex_value<_Ty>>::_Div<int>(const std::complex<_Ty> &)"
+          with
+          [
+              _Ty=int
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\complex(1208): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\xcomplex(89): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::complex<int> &std::complex<int>::operator /=(const std::complex<int> &)"
+  ConsoleApplication1.cpp(107): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::complex<int>"
+  Создание кода
+  0 of 268 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> C:\Users\Пользователь\Desktop\Лабораторная робота №5 (ООП)\ConsoleApplication1\Release\ConsoleApplication1.exe
